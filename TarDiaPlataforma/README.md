@@ -26,7 +26,7 @@ cloud-bot-platform/
 │   │       └── Dockerfile  ← Para containerización
 │   └── data/               ← Almacenamiento JSON (users.json, bots.json)
 │
-├── database/               ← Configuración si usás MongoDB (opcional)
+├── database/               
 │
 └── README.md
 \`\`\`
