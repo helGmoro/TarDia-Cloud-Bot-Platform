@@ -4,7 +4,7 @@ Sistema completo para crear y desplegar bots de Telegram automáticamente con un
 
 ## 📁 Estructura del Proyecto
 
-\`\`\`
+
 cloud-bot-platform/
 ├── frontend/               ← Dashboard del usuario (HTML simple)
 │   ├── index.html          ← Auth, crear bot, ver bots
@@ -29,7 +29,7 @@ cloud-bot-platform/
 ├── database/               
 │
 └── README.md
-\`\`\`
+
 
 ## 🚀 Características
 
